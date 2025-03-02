@@ -1,2 +1,2 @@
 # DELTA-demo
- starting the development journey
+ starting the development journey.
